@@ -1,0 +1,11 @@
+
+
+
+
+Il procedimento dello Scan (Basic e Advanced) con Nessus basato su IP di Metasploitable al fine riporta numerose vulnerabilità da le più critical a le più low:
+
+-Leggendo quelle critiche vengono consigliati i modi pratici per prevenire un eventuale attacco sempre riportato come esmpio dal tool di nessus;
+
+-Naturalmente viene speficata l'azione in base alla porta citata per nome e numero specialmente per le weel know ports aperte più pericolose dato il funzionamento di trasmissione di dati in chiaro;
+
+-Infatti molti esempi di attachi vegono illustrati con ricorrenza al man in the middle e ad un listen to remote.  
