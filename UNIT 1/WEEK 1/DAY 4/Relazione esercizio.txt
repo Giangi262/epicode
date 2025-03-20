@@ -1,3 +1,0 @@
-
-In riferimento al modello ISO/OSI ho svolto l'esercizio collegando due pc su una rete di livello 2 (data) con uno switch, comunicando tramite i loro indirizzi MAC e le loro schede di rete.
-In più l'esercizio richiedeva il collegamento di un ulteriore latlop con rete diversa... Così ho aggiunto un router-gateway, dispositivo di livello 3 (modello ISO/OSI "rete") che ha permesso l'instradamento di una rete diversa. 

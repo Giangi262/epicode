@@ -1,5 +1,0 @@
-
-
-
--La differenza tra il comando nmap -sS e -sV è che con il primo si risparmia nel trheewayhandshake l'ultimo passaggio;
--Mentre tra nmap -sS e sT è solamente la velocità di risposta al comando. 
